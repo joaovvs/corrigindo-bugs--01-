@@ -15,6 +15,14 @@ O código sofreu algumas alterações e, como podemos ver na imagem abaixo:
 ![Layout error](https://github.com/joaovvs/corrigindo-bugs--01-/blob/main/images/Untitled.png)
 
 
+## Preview 
+
+![Layout error](https://github.com/joaovvs/corrigindo-bugs--01-/blob/main/images/layout.png)
+
+
+
+
+
 ## Aprendizados
 
 Neste desafio aprendi sobre HTML5 e estilização através de CSS3
